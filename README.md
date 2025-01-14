@@ -12,6 +12,6 @@ This function takes the molecular weight dictionary and a solutions needed list 
 
 The python files can be ran in Jupyter notebook by adding them to the folder that the notebook file is in, then importing the functions. For example:
 
-import extract_parameter
+from extract_parameter import extract_parameter
 
 Then the functions can be used as normal
